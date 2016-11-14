@@ -2,7 +2,7 @@
 
 This is a simple but hugely time-saving Python PyQt GUI program used by the Project Management department intended to quicken the due dilligence process for screening a large number of name candidates to determine if there are any INN generic stems conflicts within the names.
 
-This program allows a user to input a list of names and builds an excel document outlining any/all conflicts with each name
+This program allows a user to input a list of names and builds an excel document (using xlwt) which outlines any/all conflicts with each name
 
 <hr>
 
