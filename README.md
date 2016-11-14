@@ -4,10 +4,12 @@ This is a simple but hugely time-saving Python PyQt GUI program used by the Proj
 
 This program allows a user to input a list of names and builds an excel document outlining any/all conflicts with each name
 
+<hr>
+
 The main window uses a fairly simple UI; the output is an excel file showing INN stem conflicts
 
 ![Picture](http://i.imgur.com/W2lk47m.png?3)  ![Picture](http://i.imgur.com/qS2zdJP.png?1)
 
-
+<hr>
 
 > Please note that the actual INN generic stem database is not included here for confidentiality purposes
